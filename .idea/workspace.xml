@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5550752-6776-450c-aee2-bd694576cde0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Python_module_3_3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="b5550752-6776-450c-aee2-bd694576cde0" name="Changes" comment="Самостоятельная работа по уроку &quot;Распаковка позиционных параметров&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,6 +13,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/StarDust0704/module_3_3.git",
+    "accountId": "0e7c6efa-c542-49f5-b4b3-74e2db6ac4f6"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -50,6 +51,35 @@
       <option name="presentableId" value="Default" />
       <updated>1734323898599</updated>
     </task>
+    <task id="LOCAL-00001" summary="Самостоятельная работа по уроку &quot;Распаковка позиционных параметров&quot;">
+      <option name="closed" value="true" />
+      <created>1734324330633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734324330633</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Самостоятельная работа по уроку &quot;Распаковка позиционных параметров&quot;">
+      <option name="closed" value="true" />
+      <created>1734324523569</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734324523569</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Самостоятельная работа по уроку &quot;Распаковка позиционных параметров&quot;">
+      <option name="closed" value="true" />
+      <created>1734324567624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734324567624</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Самостоятельная работа по уроку &quot;Распаковка позиционных параметров&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Самостоятельная работа по уроку &quot;Распаковка позиционных параметров&quot;" />
   </component>
 </project>
